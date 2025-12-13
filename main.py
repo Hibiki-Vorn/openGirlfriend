@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 from langchain_ollama.chat_models import ChatOllama
 from langchain_core.messages import SystemMessage, HumanMessage
 
